@@ -1,2 +1,4 @@
 Testando o arquivo clonado
-Criando a funcionalidade 
+Criando a funcionalidade A
+fazendo a funcionalidade B
+x+y
